@@ -2,14 +2,14 @@
 |-----------|--------------------------------|----------------------------------------------|
 | 1         | 0_PreRequiste                  | 0i_getLine.cpp                                |
 | 2         |                                | 0ii_sum_of_digits_n_test_cases.cpp            |
-| 3         |                                | 10_alogorithm.cpp                             |
-| 4         |                                | 11_recursion.cpp                              |
-| 5         |                                | 1_pair.cpp                                    |
-| 6         |                                | 2_vector.cpp                                  |
-| 7         |                                | 3_list.cpp                                    |
-| 8         |                                | 4_minAndMaxHeap_priorityQueue.cpp             |
-| 9         |                                | 5_set.cpp                                     |
-| 10        |                                | 6_binarySearchSTL.cpp                         |
-| 11        |                                | 7_multiSet.cpp                                |
-| 12        |                                | 8_unorderSet.cpp                              |
-| 13        |                                | 9_map.cpp                                     |
+| 3         |                                | 1_pair.cpp                                    |
+| 4         |                                | 2_vector.cpp                                  |
+| 5         |                                | 3_list.cpp                                    |
+| 6         |                                | 4_minAndMaxHeap_priorityQueue.cpp             |
+| 7         |                                | 5_set.cpp                                     |
+| 8         |                                | 6_binarySearchSTL.cpp                         |
+| 9         |                                | 7_multiSet.cpp                                |
+| 10        |                                | 8_unorderSet.cpp                              |
+| 11        |                                | 9_map.cpp                                     |
+| 12        |                                | 10_alogorithm.cpp                             |
+| 13        |                                | 11_recursion.cpp                              |
