@@ -7,3 +7,4 @@
 | 5         |                                | 3_list.cpp                                    |
 | 6         |                                | 4_minAndMaxHeap_priorityQueue.cpp             |
 | 7         |                                | 5_set.cpp                                     |
+| 8         |                                | 6_binarySearchSTL.cpp                         |
