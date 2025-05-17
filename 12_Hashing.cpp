@@ -1,5 +1,5 @@
-#include "bits/stdcpp.h"
-const int N = 1e7+5;
+#include <bits/stdc++.h>
+const int N = 1e7 + 5;
 int Hash[N];
 using namespace std;
 int main()
