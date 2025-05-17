@@ -5,3 +5,4 @@
 | 3         |                                | 1_pair.cpp                                    |
 | 4         |                                | 2_vector.cpp                                  |
 | 5         |                                | 3_list.cpp                                    |
+| 6         |                                | 4_minAndMaxHeap_priorityQueue.cpp             |
