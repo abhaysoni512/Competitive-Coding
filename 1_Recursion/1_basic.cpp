@@ -14,19 +14,19 @@
 
 #include <bits/stdc++.h>
 using namespace std;
-auto printN(string_view s, int & n){
-    if(n == 0) return "";
-    n--;
-    return printN(s, n);
+auto printN(string_view s,int i, int n){
+    if(i > n) return;
+    cout << s <<endl;
+    printN(s, i+1, n);
     
 }
 
 int main(){
     static int n;
     cin >> n;
+    cin.ignore();
     string s;
-    cin >> s;
-    string result = printN(s, n);
-    cout << result << endl;
+    getline(cin, s);
+    printN(s,1, n);
     return 0;
 }
